@@ -31,3 +31,6 @@
 
 
 ## :computer: Courses
+* React Native Course: Develop Native APPs for Android and iOS!
+* React + Redux Course: Fundamentals and 2 Apps from Absolute ZERO!
+* Full Android Development 2021 - Create 18 Apps
