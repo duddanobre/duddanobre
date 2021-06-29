@@ -23,7 +23,7 @@
 
 ## 🔎 Find me on :
 [![Gmail Badge](https://img.shields.io/badge/-dudarnobre@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dudarnobre@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Maria%20Eduarda%20Nobre-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elenilson-monteiro-4588ab18b/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Maria%20Eduarda%20Nobre-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dudanobre/ "Connect on LinkedIn")
 
 ## ⚡ GitHub Stats
 <img align="left" alt="duddanobre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duddanobre&hide=issues&show_icons=true&count_private=false" />
