@@ -1,4 +1,4 @@
-## Hi, I'm Eduarda Nobre (DuddaNobre)! 👋
+## Hi, I'm Maria Eduarda Nobre (DuddaNobre)! 👋
 
 :mortar_board: Graduating Information Systems in [Federal University of Ceará](http://www.ufc.br/).
 
