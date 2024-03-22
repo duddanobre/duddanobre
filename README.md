@@ -1,6 +1,6 @@
 ## Hi, I'm Maria Eduarda Nobre (duddanobre)! 👋
 
-:mortar_board: Graduating Information Systems in [Federal University of Ceará](http://www.ufc.br/).
+:mortar_board: Bachelor in Information Systems from [Federal University of Ceará](http://www.ufc.br/).
 
 ## 🛠 Skills
 
