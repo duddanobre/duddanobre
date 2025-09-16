@@ -1,36 +1,63 @@
-## Hi, I'm Maria Eduarda Nobre (duddanobre)! 👋
+# 👋 Hi, I'm Maria Eduarda Nobre!
 
-:mortar_board: Bachelor in Information Systems from [Federal University of Ceará](http://www.ufc.br/).
+**Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
-## 🛠 Skills
+---
 
-<p>
-  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D" />
-  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />  
-  <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-</p>
+### 🚀 About Me
 
-## 🔎 Find me on :
-[![Gmail Badge](https://img.shields.io/badge/-dudarnobre@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dudarnobre@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Maria%20Eduarda%20Nobre-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dudanobre/ "Connect on LinkedIn")
+I'm a full-stack developer with strong expertise in scalable backend systems using **Node.js** and **Java**. I’m passionate about building robust solutions with technologies like **Typescript**, **Python**, **NoSQL**, **SQL**, **Redis**, **RabbitMQ**, and modern frontend/mobile frameworks such as **React**, **Next.js**, and **React Native**.
 
-## ⚡ GitHub Stats
-<img align="left" alt="duddanobre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duddanobre&hide=issues&show_icons=true&count_private=false" />
-<img align="left" alt="duddanobre's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duddanobre&hide=java&hide_border=true&&count_private=true" />
+I believe in transforming reality through technology, solving complex problems, and writing clean, maintainable code. Currently, I am pursuing an MBA in Data Science to deepen my knowledge and impact.
 
+---
 
-## :computer: Courses
-* React Native Course: Develop Native APPs for Android and iOS!
-* React + Redux Course: Fundamentals and 2 Apps from Absolute ZERO!
-* Full Android Development 2021 - Create 18 Apps
+### 🏆 Featured Project
+
+**Mais Infância Platform of the Government of the State of Ceará**  
+A flagship government program platform where I contributed to key features, bug fixes, MVP delivery, and continuous improvements. Proud to help shape a system that makes a real difference.
+
+---
+
+### 🛠️ Skills & Technologies
+
+- **Languages:** Node.js, Java, Typescript, Python, SQL
+- **Databases:** NoSQL, SQL, Redis
+- **Messaging:** RabbitMQ
+- **Frontend:** React, Next.js, React Native
+- **Other:** Scalable systems, bug fixing, feature development, MVP delivery
+
+---
+
+### 📚 Education
+
+- **B.Sc. in Information Systems**, Federal University of Ceará (UFC)
+- **MBA in Data Science**, University of Fortaleza (UNIFOR)
+
+---
+
+### 🌟 Top Repositories
+
+- [search-restaurants](https://github.com/duddanobre/search-restaurants)
+- [sidra-nordeste](https://github.com/duddanobre/sidra-nordeste)
+- [conectAI](https://github.com/duddanobre/conectAI)
+- [FirstModuleMBA](https://github.com/duddanobre/FirstModuleMBA)
+- [Linkedin Scrapper](https://github.com/duddanobre/linkedin-scrapper-next)
+
+---
+
+### 💬 Motto
+
+> “I love to create and transform reality with technology.”
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dudanobre/)
+
+---
+
+<!--
+Feel free to add more sections or ask for a specific style! 🚀
+-->
